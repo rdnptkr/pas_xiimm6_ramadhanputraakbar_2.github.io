@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
+
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+}
+
+p{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 500;
+}
+
+.card-text{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-nav{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 300;
+}
+
+.Leica{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+}
